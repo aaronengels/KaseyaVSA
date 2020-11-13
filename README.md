@@ -51,7 +51,7 @@ end {
 
 # Kaseya VSA API
 
-Visit https://merlot-api.centrastage.net/api/swagger-ui.html#/ for more information.
+Visit http://help.kaseya.com/webhelp/EN/RESTAPI/9050000/index.asp#home.htm for more information.
 
 # Release notes
 
