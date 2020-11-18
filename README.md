@@ -6,7 +6,7 @@ of time working out how to use the Kaseya VSA API  API. Simply load the module, 
 
 # Basics
 
-You can install the module from the [PowerShell Gallery](https://www.powershellgallery.com/packages/KaseyaVSA) and use example below to get started. To use the code blow you can download my [Alert Desk](https://automationexchange.kaseya.com/products/108) from the Kaseya Automation Exchange.
+You can install the module from the [PowerShell Gallery](https://www.powershellgallery.com/packages/KaseyaVSA) and use example below to get started. To use the code below you can download my [Alert Desk](https://automationexchange.kaseya.com/products/108) from the Kaseya Automation Exchange.
 
 ```powershell
 begin {
