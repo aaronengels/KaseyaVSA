@@ -51,7 +51,7 @@ end {
 
 # Kaseya VSA API
 
-Visit the [online help](http://help.kaseya.com/webhelp/EN/RESTAPI/9050000/index.asp#home.htm) to find out more about the Kaseya API. 
+Visit the [online help](http://help.kaseya.com/webhelp/EN/RESTAPI/9050000/index.asp#home.htm) to find out more about the Kaseya API. Or use your build in VSA swagger https://[your vsa url]/api/v1.0/swagger/ui/index to see and test the API.
 
 # Release notes
 
